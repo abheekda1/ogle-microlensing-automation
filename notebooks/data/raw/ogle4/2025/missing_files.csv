@@ -1,0 +1,2 @@
+event,file,status
+blg-1224,params.dat,"error (HTTPSConnectionPool(host='www.astrouw.edu.pl', port=443): Read timed out. (read timeout=10))"
