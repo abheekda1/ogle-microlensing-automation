@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+pandas
+astropy
+requests
+umap-learn
+scikit-learn
